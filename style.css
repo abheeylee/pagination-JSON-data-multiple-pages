@@ -1,0 +1,36 @@
+.btn{
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    font-size: 1em;
+    display: inline-block;
+    cursor: pointer;
+    color: #000;
+    background-color: aliceblue;
+    margin: 0 5px;
+}
+.btn:hover{
+    background-color: rgba(180, 162, 162, 0.822);
+}
+
+.mute{
+    color: #ddd;
+    background-color: aliceblue;
+}
+
+.main{
+    display: block;
+    padding: 20px;
+    text-align: center;
+    
+}
+.h1{
+    width: 100%;
+    text-align: center;
+}
+
+.active{
+    background-color: red;
+    font-size: 1.4em;
+}
